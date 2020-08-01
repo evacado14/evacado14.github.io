@@ -1,0 +1,20 @@
+h1{
+	color:#0000FF;
+}
+h2{
+	color:#00CCFF;
+}
+h3{
+	color:#000099;
+}
+body{     
+	font-size: 14px;    
+	font-weight: 300;  
+	font-family: 'Delius Unicase';   
+	
+	/*background-image: url("stars.JPEG"); */   
+}
+body{
+	/*background-color: lightblue;*/
+	background-image: url("space.jpg"); 
+}
