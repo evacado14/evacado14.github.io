@@ -49,7 +49,7 @@ body {
 
 
 .header-area{
-    background: url(../images/mountain-stars.jpg);
+    background: url(../images/trees.jpg);
     min-height: 600px;
     background-size: cover;
     background-position: center center;
@@ -87,6 +87,12 @@ h1{
 
 }
 h2{
+    color:#FFFFFF;
+}
+h4{
+    color:#FFFFFF;
+}
+a{
     color:#FFFFFF;
 }
 
