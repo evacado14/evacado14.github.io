@@ -2,12 +2,12 @@ function changeText(){ 
 	var current_val = document.getElementById('description_2').innerText 	  	
 
 
-	if (current_val == "Teacher"){ 		
-		document.getElementById('description_2').innerHTML = "hi" 	
-	}else if(current_val == "hi"){
-		document.getElementById('description_2').innerHTML = "Student" 	
+	if (current_val == "I am a student in 9th grade"){ 		
+		document.getElementById('description_2').innerHTML = "This is my first website" 	
+	}else if(current_val == "This is my first website"){
+		document.getElementById('description_2').innerHTML = "Learn more about me by clicking on my projects" 	
 	}else{ 		
-		document.getElementById('description_2').innerHTML = "Teacher" 
+		document.getElementById('description_2').innerHTML = "I am a student in 9th grade" 
 	} 	 
 } 
 
