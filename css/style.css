@@ -79,6 +79,18 @@ body {
     background: yellow;
     color: #000;
     text-decoration: none;
+
+
+}
+
+
+/* trying to make header text for p */
+.header-text p{
+    font-size: 20px
+    color: #fff;
+    font-weight:100;
+
+
 }
 
 /* trying to make colors */
@@ -249,7 +261,7 @@ input[type=submit]:hover {
 /*Profile card*/
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
+  max-width: 500px;
   margin: auto;
   text-align: center;
 }
